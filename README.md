@@ -1,2 +1,3 @@
 # WeatherApp
-iOS weather forecast app
+
+iOS weather forecast app, coded in Swift.
